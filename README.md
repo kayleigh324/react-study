@@ -3,7 +3,7 @@ Notes from my React studying, or notes from progress made on projects. Basically
 
 <h1>React UseState</h>
 
-```React
+```JavaScript
 import React, { Component } from "react";
 import "./App.css";
 
