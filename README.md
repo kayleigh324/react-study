@@ -20,6 +20,24 @@ class App extends Component {
 export default App;
 ``` 
 
+Beginning a new project using React Native, to create a hotel booking mobile app. To install React Native, use npm install -g expo-cli from terminal. Then..
+
+expo init HotelBooking
+
+cd HotelBooking
+npm start
+
+(I used hotel booking for my app name but choose whatever name you wish here)
+
+Then install the Expo web app, follow these intructions and voila! You should now see your mobile app on your mobile!
+
+Then install packages such as react-native-web for 
+
+https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz
+
+0.64.3
+
+
 
 
 
